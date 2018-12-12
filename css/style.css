@@ -1,0 +1,137 @@
+.about{
+	background-color:gold;
+	margin-top:-25px;
+	padding: 50px; 
+}
+.about h2{
+	font-family: cursive;
+	font-size: 28px;
+	text-align: center;
+	color: white;
+}
+.about p{
+	font-family: cursive;
+	font-size: 14px;
+	text-align: center;
+	color: blue;
+}
+div.hero-image{
+	background-image: url("../img/banner.jpg");
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+div.imagez{
+	background-color: pink;
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+div.hero-image img{
+	border-radius: 50%;
+	border: 8px solid black;
+	max-width: 250px;
+
+}
+.abouts{
+	background-color: grey;
+	margin-top:-25px;
+	padding: 50px; 
+}
+.abouts h2{
+	font-family: cursive;
+	font-size: 28px;
+	text-align: center;
+	color: white;
+}
+.abouts p{
+	font-family: cursive;
+	font-size: 14px;
+	text-align: center;
+	color: blue;
+}
+.top{
+	color: fuchsia;
+	padding-left: 3
+	0px;
+	width: 90%;
+	font-family: cursive;
+}
+.top h1{
+	font-size:30px;
+	margin-bottom: -10px;
+}
+.top p{
+	position: relative;
+	font-size: 20px;
+	color: rgb(102, 102, 102);
+	color: white;
+}
+section p{
+	font-family: cursive;
+	font-size: 20px;
+	text-align: center;
+	color: fuchsia;
+}
+.row{
+	margin-left: 80px;
+}
+.mama{
+	width: 30%;
+	display: inline-grid;
+	margin-top: 40px;
+}
+.mama h4{
+	color: rgb(195, 25, 25);
+}
+.mama p{
+
+	margin-top: -10px;
+	margin-left: 50px;
+}
+.tok{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	margin-top: 5px;
+	margin-left: -50px;
+}
+.menuimg{
+	display: inline-grid;
+	width: 30%;
+	height: 200px
+	padding-top: 20px;
+	padding-right: 20px;
+}
+footer{
+	background-color: #2980b9;
+	margin-top: 10px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+.topnav{
+	background: #2980b9;
+	overflow: hidden;
+}
+.topnav a{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover{
+	background-color: #F7B906;
+	color: black;
+}
+.topnav a.active {
+	background-color: #F7B906;
+	color: white;
+	}
